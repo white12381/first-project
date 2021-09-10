@@ -1,0 +1,61 @@
+body{
+    background-color:hsl(233, 47%, 7%);
+
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    position: absolute;
+    width: 40%;
+    left: 508px;
+    top: 150px;
+
+}
+span{
+    color: green;
+}
+.content{
+    position: absolute;
+    width: 40%;
+    height: 400px;
+    background-color: hsl(244, 38%, 16%);
+left: 100px;
+top: 150px;
+height: 310px;
+padding: 10px;
+padding-bottom: 0px;
+}
+h1{
+    color: hsl(0, 0%, 100%);
+    margin: 35px;
+    font-weight:400;
+    margin-bottom: 10px;
+    font-family: 'Inter', sans-serif;
+    width: 90%;
+    
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin:35px;
+    font-size: smaller;
+    margin-top: 20px;
+    font-family: 'Lexend Deca', sans-serif;
+    
+} 
+table{
+    margin-left: 35px;
+    margin-top: 50px;
+    text-align: justify;
+    justify-content: space-evenly;
+    font-family: 'Inter', sans-serif;
+}
+table td{
+    color: hsla(0, 0%, 100%, 0.6);
+    font-size: xx-small;
+    width: 120px;
+    
+}
+table th{
+    color:hsl(0, 0%, 100%);
+}
